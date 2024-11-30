@@ -7,7 +7,7 @@ import base64
 
 
 # OpenAI 클라이언트 생성
-client = openai.OpenAI(api_key="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")  # API 키 입력
+client = openai.OpenAI(api_key="")  # API 키 입력
 
 
 # 음성을 텍스트로 변환하는 함수 (STT)
